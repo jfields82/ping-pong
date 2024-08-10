@@ -1,4 +1,3 @@
-# ping-pong
 # Pygame Ping Pong
 
 A simple implementation of the classic Ping Pong game using Python and Pygame.
